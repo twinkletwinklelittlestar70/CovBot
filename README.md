@@ -37,11 +37,11 @@ Refer to the [Installation Guide](https://github.com/AparGarg99/CovBot/blob/mast
 
 | Full Name  | Work Items (Who Did What) | Email ID |
 | :---------------:| :-----| :-----|
-| Apar Garg    |Covid screening using cough audio recordings functionality, Report| apargarg99@gmail.com |
-| Lin Qianqian  |Fake tweet detection functionality, Front-end development, Installation Guide| linqianqian70@outlook.com |
-| Liu Jing  |Fake tweet detection functionality, Video| e0703435@u.nus.edu |
-| Yang Mingrun |FAQ Answering functionality, PPT|e0703376@u.nus.edu |
-| Zhu Junkun | FAQ Answering functionality, User Guide|zhujunkun10@126.com |
+| Apar Garg    |Covid screening using cough audio recordings, Report| apargarg99@gmail.com |
+| Lin Qianqian  |Fake tweet detection, Report, Engineering development, Installation Guide, Video, User Guide| linqianqian70@outlook.com |
+| Liu Jing  |Fake tweet detection, Report| e0703435@u.nus.edu |
+| Yang Mingrun |FAQ Answering, Report|e0703376@u.nus.edu |
+| Zhu Junkun | FAQ Answering, Report|zhujunkun10@126.com |
 
 ---
 
